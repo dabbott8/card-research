@@ -1,0 +1,5 @@
+Dylan Abott
+Card Research
+
+I think the game War would be better than Go Fish because War only has to compare whether the value one card is higher than the other/s.
+In go fish it has to read the stored values of both players hands and compare them, and pull from a centralized pile.
